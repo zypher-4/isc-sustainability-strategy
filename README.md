@@ -63,8 +63,8 @@ ISC operates in a resource-intensive industry with key sustainability challenges
 ---
 
 ## Deliverables
-- 📄 Full Sustainability Report: `/report/ISC_Sustainability_Report.pdf`  
-- 📊 Strategy Presentation: `/presentation/ISC_Sustainability_Strategy.pdf`  
+- Full Sustainability Report: `/report/ISC_Sustainability_Report.pdf`  
+- Strategy Presentation: `/presentation/ISC_Sustainability_Strategy.pdf`  
 
 ---
 
@@ -79,4 +79,11 @@ ISC operates in a resource-intensive industry with key sustainability challenges
 ---
 
 ## Authors
-Team Project – Thunderbird School of Global Management  
+- Aimee Hopkins
+- Brenna Wojtysiak
+- Collin Breischaft
+- Elle Whiteman
+- Kartik Nariya
+- Nokuthaba Tshuma
+- Wasil Ahmad
+ 
