@@ -76,7 +76,7 @@ Improve barrel longevity through protective coatings and design improvements.
 
 ![SDG Value Map](visuals/sdg_value_map.png)
 
-![System Redesign Map](visuals/system_redesign_map.png)
+![System Redesign Map](visuals/system_map.png)
 
 ---
 
