@@ -1,80 +1,93 @@
 # Sustainability Strategy for Independent Stave Company (ISC)
 
 ## Overview
-This project presents a comprehensive sustainability strategy for Independent Stave Company (ISC), a global manufacturer of oak barrels used in the wine and spirits industry.
+Developed a sustainability and business strategy for Independent Stave Company (ISC), a global manufacturer of oak barrels for the wine and spirits industry.
 
-The analysis focuses on balancing long-term environmental sustainability with operational efficiency and business growth.
+The project focused on identifying key environmental and operational risks and redesigning ISC’s business model to improve long-term sustainability, efficiency, and profitability.
 
 ---
 
-## Problem Statement
-ISC operates in a resource-intensive industry with key sustainability challenges:
+## Key Outcome
+- Designed a circular **“Barrels-as-a-Service”** model to extend product lifecycle and create recurring revenue  
+- Identified major emissions drivers across operations (steel, transport, kiln drying)  
+- Proposed solutions with potential to significantly reduce carbon impact and resource use  
+- Aligned sustainability initiatives with long-term business value  
 
-- Heavy reliance on white oak, which requires 50–80 years to mature  
-- Carbon-intensive production processes (steel hoops, transport, kiln drying)  
+---
+
+## Problem
+ISC operates in a resource-intensive industry with several structural challenges:
+
+- Dependence on white oak, which takes decades to mature  
+- Carbon-intensive production processes  
 - Limited lifecycle control after barrels are sold  
-- Lack of comprehensive carbon accounting (Scope 1–3 emissions)
+- Increasing pressure for sustainability transparency and reporting  
 
 ---
 
 ## Approach
-- Conducted value chain and sustainability analysis  
-- Built SDG impact and system redesign frameworks  
-- Identified emissions hotspots across operations  
-- Evaluated risks using PESTLE and stakeholder analysis  
+- Analyzed ISC’s value chain, sustainability practices, and risk exposure  
+- Built SDG impact and system-level frameworks to identify leverage points  
+- Evaluated environmental, operational, and regulatory risks (PESTLE analysis)  
 - Developed strategic and operational recommendations  
-
----
-
-## Key Insights
-- Steel hoops contribute ~15–20 kg CO₂ per barrel, making them a major emissions driver  
-- Transportation and kiln drying significantly increase lifecycle emissions  
-- Current linear business model limits resource efficiency and long-term value capture  
-- Increasing regulatory and customer pressure for ESG transparency  
 
 ---
 
 ## Strategic Recommendations
 
 ### 1. Barrels-as-a-Service (Circular Model)
-- Transition from one-time sales to a leasing model  
-- Extend barrel lifecycle through refurbishment and reuse  
-- Improve asset utilization and reduce raw material demand  
-- Generate recurring revenue streams  
+Shift from a one-time sales model to a leasing system where ISC retains ownership and manages the full lifecycle of barrels.
 
-### 2. Transition to Recycled Steel Hoops
-- Reduce steel-related emissions by up to 75%  
-- Lower overall carbon intensity  
-- Align with customer decarbonization goals  
+**Impact:**
+- Extends product lifespan  
+- Reduces demand for new raw materials  
+- Creates recurring revenue streams  
 
-### 3. Greenkote Protective Coating
-- Increase durability and lifespan of barrels  
-- Reduce replacement frequency and waste  
-- Lower lifecycle emissions  
+---
+
+### 2. Recycled Steel Adoption
+Transition to recycled steel for barrel hoops.
+
+**Impact:**
+- Reduces emissions from one of the largest carbon sources in production  
+- Improves overall carbon efficiency  
+
+---
+
+### 3. Durability Enhancements (Greenkote Coating)
+Improve barrel longevity through protective coatings and design improvements.
+
+**Impact:**
+- Reduces replacement frequency  
+- Lowers lifecycle emissions  
+- Supports circular model viability  
 
 ---
 
 ## Business Impact
-- Reduced dependency on raw materials  
-- Improved cost stability and supply chain resilience  
-- Created a recurring revenue model  
-- Aligned sustainability with long-term profitability  
+- Reduced reliance on volatile raw materials  
+- Improved supply chain resilience  
+- Created a more stable, recurring revenue model  
+- Positioned sustainability as a competitive advantage  
+
+---
+
+## Key Visuals
+
+![SDG Value Map](visuals/sdg_value_map.png)
+
+![System Redesign Map](visuals/system_redesign_map.png)
 
 ---
 
 ## Deliverables
-- Full Sustainability Report: `/report/ISC_Sustainability_Report.pdf`  
-- Strategy Presentation: `/presentation/ISC_Sustainability_Strategy.pdf`  
+- 📄 Full Report: `/report/ISC_Sustainability_Report.pdf`  
+- 📊 Strategy Presentation: `/presentation/ISC_Sustainability_Strategy.pdf`  
 
 ---
 
-## Skills Demonstrated
-- Sustainability Strategy  
-- Business Model Innovation  
-- Data-Driven Analysis  
-- Systems Thinking  
-- ESG & SDG Frameworks  
-- Consulting & Presentation  
+## Context
+Graduate consulting project – Thunderbird School of Global Management  
 
 ---
 
